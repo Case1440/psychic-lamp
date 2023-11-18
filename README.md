@@ -40,6 +40,7 @@ The Project was created with:
 -Visual Studio Code (VS Code)
 
 ## Screenshots
+![Alt text](https://github.com/Case1440/animated-octo-computing-machine/blob/main/assets/images/screenshots/Screenshot%20(2).png)
 
 
 ## Summary
